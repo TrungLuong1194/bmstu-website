@@ -7,3 +7,7 @@ https://bmstu.herokuapp.com/
 
 ## Deploy implemention
 https://medium.com/@hdsingh13/deploying-django-app-on-heroku-with-postgres-as-backend-b2f3194e8a43
+
+- git add .
+- git commit -m "comment"
+- git push heroku master
